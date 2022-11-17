@@ -1,5 +1,4 @@
 # Event-Scheduler
-Event-Scheduler using live DB
 
 The project is based on event-scheduling dome in colleges using real-time database Firebase where committee head can add event, check if any event is already planned.
 
