@@ -1,4 +1,4 @@
-Event-Scheduler
+Event-Schedule
 
 The project is based on event-scheduling dome in colleges using real-time database Firebase where committee head can add event, check if any vent is already planned.
 
