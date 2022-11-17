@@ -1,24 +1,7 @@
-# event
+The project is based on event-scheduling dome in colleges using real-time database Firebase where committee head can add event, check if any vent is already planned.
 
-## Project setup
-```
-npm install
-```
+The principal can approve or reject the events. The approved and rejected events will be reflected back on committee head’s domain. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The students can view the events which are approved and finalised with the dates and details about the event.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This helps to avoid the clashes between events.
